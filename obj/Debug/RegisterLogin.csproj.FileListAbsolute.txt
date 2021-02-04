@@ -1,0 +1,13 @@
+D:\Latian Projek\RegisterLogin\bin\Debug\RegisterLogin.exe.config
+D:\Latian Projek\RegisterLogin\bin\Debug\RegisterLogin.exe
+D:\Latian Projek\RegisterLogin\bin\Debug\RegisterLogin.pdb
+D:\Latian Projek\RegisterLogin\obj\Debug\RegisterLogin.csprojAssemblyReference.cache
+D:\Latian Projek\RegisterLogin\obj\Debug\RegisterLogin.Admin.resources
+D:\Latian Projek\RegisterLogin\obj\Debug\RegisterLogin.Login.resources
+D:\Latian Projek\RegisterLogin\obj\Debug\RegisterLogin.Register.resources
+D:\Latian Projek\RegisterLogin\obj\Debug\RegisterLogin.Properties.Resources.resources
+D:\Latian Projek\RegisterLogin\obj\Debug\RegisterLogin.User.resources
+D:\Latian Projek\RegisterLogin\obj\Debug\RegisterLogin.csproj.GenerateResource.cache
+D:\Latian Projek\RegisterLogin\obj\Debug\RegisterLogin.csproj.CoreCompileInputs.cache
+D:\Latian Projek\RegisterLogin\obj\Debug\RegisterLogin.exe
+D:\Latian Projek\RegisterLogin\obj\Debug\RegisterLogin.pdb
